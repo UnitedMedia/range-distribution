@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Range distribution",
+  "categories": ["ANALYTICS", "UTILITY"],
   "description": "The custom template will automatically categorize numeric input into specific ranges, based on user-defined parameters. Using this template you’ll quickly and easily categorize numeric data.",
   "containerContexts": [
     "WEB"
