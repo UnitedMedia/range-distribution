@@ -1,0 +1,4 @@
+homepage: "https://unitedmedia.ro/"
+versions:
+  - sha: 090f5bbed90c5a7d9f1aa5cf2ca8143a1c67aa93
+    changeNotes: Initial release.
